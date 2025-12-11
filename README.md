@@ -127,18 +127,28 @@ To set up the environment, follow these steps:
    Execute the provided scripts to perform feature recognition tasks as described in the paper. 
 
 
-## Citation
+## 📄 Citation
 
-If you find this repository or the MFCAD-VLM dataset useful in your research, please cite the following paper:
+If you find this repository or the MFCAD-VLM dataset useful in your research, please cite our officially published paper:
+
+**Leveraging Vision-Language Models for Manufacturing Feature Recognition in Computer-Aided Designs**  
+*Journal of Computing and Information Science in Engineering (JCISE), ASME, 2025.*  
+**DOI:** [https://doi.org/10.1115/1.4069266](https://doi.org/10.1115/1.4069266)
 
 ```bibtex
-@article{
-  title={Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs},
+@article{khan2025leveraging,
+  title={Leveraging Vision-Language Models for Manufacturing Feature Recognition in Computer-Aided Designs},
   author={Khan, Muhammad Tayyab and Chen, Lequn and Ng, Ye Han and Feng, Wenhe and Tan, Nicholas Yew Jin and Moon, Seung Ki},
-  journal={arXiv preprint arXiv:2411.02810},
-  year={2024}
+  journal={Journal of Computing and Information Science in Engineering},
+  volume={25},
+  number={},
+  pages={104501},
+  year={2025},
+  publisher={American Society of Mechanical Engineers},
+  doi={10.1115/1.4069266},
+  url={https://doi.org/10.1115/1.4069266}
 }
-```
+
 
 ## License
 
