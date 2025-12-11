@@ -148,7 +148,7 @@ If you find this repository or the MFCAD-VLM dataset useful in your research, pl
   doi={10.1115/1.4069266},
   url={https://doi.org/10.1115/1.4069266}
 }
-
+```
 
 ## License
 
