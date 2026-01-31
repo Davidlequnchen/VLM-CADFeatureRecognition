@@ -6,7 +6,7 @@ This repository contains the code and resources accompanying the paper "[Leverag
 
 **Dataset Used:** The dataset used in this study is available in the `Dataset` folder.
 
-**Authors:** [Chen Lequn](https://github.com/Davidlequnchen), [Muhammad Tayyab Khan](https://github.com/tayyabkhan3)
+**Authors:** [Muhammad Tayyab Khan](https://github.com/tayyabkhan3), [Chen Lequn](https://github.com/Davidlequnchen)
 
 
 ## Overview
@@ -46,7 +46,7 @@ Automatic Feature Recognition (AFR) is crucial for converting design knowledge i
 
 ## MFCAD-VLM Dataset
 
-The study utilizes the [MFCAD-VLM dataset](https://zenodo.org/record/14038050), a comprehensive collection designed to advance research in CAD and AFR. The dataset includes:
+The study utilizes the MFCAD-VLM dataset, a comprehensive collection designed to advance research in CAD and AFR. The dataset includes:
 
 - **STEP Files**: CAD models in STEP format, representing various parts with distinct manufacturing features, categorized by complexity levels (easy, medium, and hard).
 - **Ground Truth JSON Files**: Expert-annotated JSON files corresponding to each STEP file, detailing manufacturing feature types, quantities, and specifics essential for accurate AFR assessment.
@@ -116,7 +116,7 @@ To set up the environment, follow these steps:
 
 1. **Download the MFCAD-VLM Dataset**:
 
-   Access and download the dataset from [Zenodo](https://zenodo.org/record/14038050). Extract the contents to `"Dataset"` directory.
+   The dataset used can be found at `"Dataset"` directory.
 
 2. **Configure the Dataset Path**:
 
